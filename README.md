@@ -19,8 +19,8 @@ In this project used the n-tire architecture
 ## Technologies
 
 - Java 11
-- MySQL
 - Maven
+- MySQL
 - JDBC
 - JSP
 - Tomcat 
