@@ -2,7 +2,7 @@
 ## About
   This web application represents a simple version of a taxi service.
 
-## Details
+## Features
 - registration a new driver
 - log in / log out
 - create, update and remove all models
@@ -29,7 +29,7 @@ In this project used the n-tire architecture
 
 - Install MySQL, Apache Tomcat (v 9.0.*), Git, Maven, Java
 - Clone the project from GitHub
-- Create the necessary tables in your database from the file init_db.sql
+- Create the necessary tables in your database using the file init_db.sql
 - Set URL, USERNAME, PASSWORD, JDBC_DRIVER in /util/ConnectionUtil class
 - Add Tomcat server to configuration
 - Run project
